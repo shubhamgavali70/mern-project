@@ -1,0 +1,20 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+  /* background: radial-gradient(#343a40, #4e5358); */
+}
+/* footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+} */
+.jumbotron,
+.card {
+  opacity: 0;
+}
